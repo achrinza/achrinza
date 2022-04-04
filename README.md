@@ -2,7 +2,7 @@
 
 I'm Rifa. You can find a general self-introduction in <https://www.achrinza.com>.
 
-Here on GitHub, I maintain a andful of open-source projects. Some examples include:
+Here on GitHub, I maintain a handful of open-source projects. Some examples include:
 
 - https://github.com/loopbackio/lopoback-next - LoopBack 4
 - https://github.com/achrinza/node-ipc - `node-ipc` fork
