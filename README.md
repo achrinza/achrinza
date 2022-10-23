@@ -4,7 +4,7 @@ I'm Rifa. You can find a general self-introduction in <https://www.achrinza.com>
 
 Here on GitHub, I maintain a handful of open-source projects. Some examples include:
 
-- https://github.com/loopbackio/lopoback-next - LoopBack 4
+- https://github.com/loopbackio/loopback-next - LoopBack 4
 - https://github.com/achrinza/node-ipc - `node-ipc` fork
 
 I also enjoy contributing to other FOSS projects as well!
