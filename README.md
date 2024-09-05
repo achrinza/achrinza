@@ -7,7 +7,10 @@ Here on GitHub, I maintain a handful of open-source projects. Some examples incl
 - https://github.com/loopbackio/loopback-next - LoopBack 4
 - https://github.com/achrinza/node-ipc - `node-ipc` fork
 
-I also enjoy contributing to other FOSS projects as well!
+You can also find me on other code forges:
+
+- https://codeberg.org/achrinza
+- https://sr.ht/~achrinza/
 
 <!--
 **achrinza/achrinza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
