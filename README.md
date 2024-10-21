@@ -7,6 +7,12 @@ Here on GitHub, I maintain a handful of open-source projects. Some examples incl
 - https://github.com/loopbackio/loopback-next - LoopBack 4
 - https://github.com/achrinza/node-ipc - `node-ipc` fork
 
+I also maintain some Flatpak SDK Extensions for use with my code editor (`org.freedesktop.Sdk.Extension.*`):
+
+- [babashka](https://github.com/achrinza/org.freedesktop.Sdk.Extension.babashka)
+- [clojure](https://github.com/achrinza/org.freedesktop.Sdk.Extension.clojure)
+- [clojure-lsp](https://github.com/achrinza/org.freedesktop.Sdk.Extension.clojure-lsp)
+
 You can also find me on other code forges:
 
 - https://codeberg.org/achrinza
