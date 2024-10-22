@@ -9,6 +9,7 @@ Here on GitHub, I maintain a handful of open-source projects. Some examples incl
 
 I also maintain some Flatpak SDK Extensions for use with my code editor (`org.freedesktop.Sdk.Extension.*`):
 
+- [android-cli-tools](https://github.com/achrinza/org.freedesktop.Sdk.Extension.android-cli-tools)
 - [babashka](https://github.com/achrinza/org.freedesktop.Sdk.Extension.babashka)
 - [clojure](https://github.com/achrinza/org.freedesktop.Sdk.Extension.clojure)
 - [clojure-lsp](https://github.com/achrinza/org.freedesktop.Sdk.Extension.clojure-lsp)
