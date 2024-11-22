@@ -13,6 +13,7 @@ I also maintain some Flatpak SDK Extensions for use with my code editor (`org.fr
 - [babashka](https://github.com/achrinza/org.freedesktop.Sdk.Extension.babashka)
 - [clojure](https://github.com/achrinza/org.freedesktop.Sdk.Extension.clojure)
 - [clojure-lsp](https://github.com/achrinza/org.freedesktop.Sdk.Extension.clojure-lsp)
+- [leiningen](https://github.com/achrinza/org.freedesktop.Sdk.Extension.leiningen)
 
 You can also find me on other code forges:
 
